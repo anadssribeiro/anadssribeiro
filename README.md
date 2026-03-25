@@ -1,7 +1,7 @@
 # Hi, I'm Ana 👋
 ## Cybersecurity Analyst | Security+ Candidate | AI & Software Engineering Background
 
-I am a cybersecurity analyst in training with a background in AI software development and full-stack engineering. I am currently preparing for the CompTIA Security+ certification and building hands-on projects in security operations, log analysis, and threat detection.
+Cybersecurity analyst in training with a background in AI software development and full-stack engineering. I am currently preparing for the CompTIA Security+ certification and building hands-on projects in security operations, log analysis, and threat detection.
 I’m particularly interested in roles that combine technical skills, security knowledge, and analytical thinking, such as security analysis, detection engineering, or security research.
 
 My main interests are:
