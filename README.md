@@ -1,56 +1,40 @@
 # Hi, I'm Ana 👋
-## Cybersecurity Analyst | Security+ Candidate | AI & Software Engineering Background
 
-Cybersecurity analyst in training with a background in AI software development and full-stack engineering. I am currently preparing for the CompTIA Security+ certification and building hands-on projects in security operations, log analysis, and threat detection.
-I’m particularly interested in roles that combine technical skills, security knowledge, and analytical thinking, such as security analysis, detection engineering, or security research.
+I'm an aspiring SOC Analyst based in the Netherlands, currently transitioning into cybersecurity after a career in operations and event management.
 
-My main interests are:
-- Security Operations (SOC)
-- Threat Detection & Log Analysis
-- Incident Investigation
-- Detection Engineering
+My journey into security started with a curiosity about how organizations detect, investigate, and respond to threats. Since then, I've been building hands-on experience through security labs, incident investigations, and SOC-focused training.
 
----
+## Currently Learning
 
-## 🔐 Cybersecurity Projects
+* SOC Operations
+* Threat Detection & Monitoring
+* Log Analysis
+* Splunk
+* Incident Response
+* MITRE ATT&CK
+* Linux & Python
 
-### SOC Analyst Lab – Log Analysis & Brute Force Detection
-- Analysed Linux authentication logs to detect brute force login attempts
-- Wrote Python scripts to parse logs and identify suspicious IP addresses
-- Mapped attacker activity to MITRE ATT&CK
-- Produced an incident report with mitigation recommendations
+## Projects
 
----
+🔍 SOC Investigation Portfolio
+Hands-on investigations covering phishing analysis, firewall alerts, threat intelligence enrichment, and alert triage.
 
-## 🛠️ Technical Skills
+💻 Full-Stack AI Development
+Built applications using Ruby on Rails, JavaScript, PostgreSQL, Elasticsearch, and OpenAI APIs.
 
-**Security & Systems:** Linux, Log Analysis, Network Fundamentals
-**Programming:** Python (basic), JavaScript, Ruby, SQL, HTML, CSS  
-**Tools:** Git, GitHub, Elasticsearch, OpenAI APIs, WebSockets, Heroku  
+## Certifications & Training
 
----
+* CompTIA Security+ Certified
+* TryHackMe SOC Level 1 Path
+* Splunk Cybersecurity Defense Analyst certefied (ongoing)
+* Le Wagon Full-Stack AI Software Development Bootcamp
+* Python (ongoing) 
 
-## 📜 Certifications
+## Connect With Me
 
-- CompTIA Security+ (Expected May 2026)
-
----
-
-## 📚 Currently Learning
-
-- SIEM tools (Elastic / Splunk)
-- Threat detection and analysis
-- Incident response
-- MITRE ATT&CK framework
-- OWASP Top 10 vulnerabilities
+* LinkedIn: (https://www.linkedin.com/in/anadssribeiro/)]
+* GitHub:  
 
 ---
 
-
-## 🎯 Career Goal
-
-I am currently looking for an entry-level role in cybersecurity such as:
-- Security Analyst
-- SOC Analyst
-- Cybersecurity Analyst
-- Information Security Analyst
+Currently documenting my cybersecurity learning journey one investigation at a time 🕵️
