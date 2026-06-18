@@ -33,7 +33,7 @@ Built applications using Ruby on Rails, JavaScript, PostgreSQL, Elasticsearch, a
 ## Connect With Me
 
 * LinkedIn: (https://www.linkedin.com/in/anadssribeiro/)]
-* GitHub:  
+* GitHub: (https://github.com/anadssribeiro)
 
 ---
 
